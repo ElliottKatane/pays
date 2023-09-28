@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tutoreact1/static/css/main.8e88f756.css",
+    "main.js": "/tutoreact1/static/js/main.af70419b.js",
+    "static/media/main.jpg": "/tutoreact1/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/tutoreact1/static/media/JosefinSans-Medium.0cdcfb97371a5d58f0d6.ttf",
+    "index.html": "/tutoreact1/index.html",
+    "main.8e88f756.css.map": "/tutoreact1/static/css/main.8e88f756.css.map",
+    "main.af70419b.js.map": "/tutoreact1/static/js/main.af70419b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e88f756.css",
+    "static/js/main.af70419b.js"
+  ]
+}
